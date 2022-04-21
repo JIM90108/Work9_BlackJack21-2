@@ -13,6 +13,7 @@
 		EB2E45492810FF40000E7E7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB2E45472810FF40000E7E7E /* Main.storyboard */; };
 		EB2E454B2810FF42000E7E7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB2E454A2810FF42000E7E7E /* Assets.xcassets */; };
 		EB2E454E2810FF42000E7E7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB2E454C2810FF42000E7E7E /* LaunchScreen.storyboard */; };
+		EB2E45562811179B000E7E7E /* cards.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB2E45552811179A000E7E7E /* cards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EB2E454A2810FF42000E7E7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB2E454D2810FF42000E7E7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB2E454F2810FF42000E7E7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB2E45552811179A000E7E7E /* cards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EB2E45412810FF40000E7E7E /* AppDelegate.swift */,
 				EB2E45432810FF40000E7E7E /* SceneDelegate.swift */,
 				EB2E45452810FF40000E7E7E /* ViewController.swift */,
+				EB2E45552811179A000E7E7E /* cards.swift */,
 				EB2E45472810FF40000E7E7E /* Main.storyboard */,
 				EB2E454A2810FF42000E7E7E /* Assets.xcassets */,
 				EB2E454C2810FF42000E7E7E /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				EB2E45462810FF40000E7E7E /* ViewController.swift in Sources */,
 				EB2E45422810FF40000E7E7E /* AppDelegate.swift in Sources */,
 				EB2E45442810FF40000E7E7E /* SceneDelegate.swift in Sources */,
+				EB2E45562811179B000E7E7E /* cards.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
